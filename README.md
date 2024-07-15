@@ -1,3 +1,3 @@
 # odin-recipes
 
-"My Recipe"
+Beispieltext
